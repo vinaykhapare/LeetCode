@@ -12,6 +12,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vinaykhapare/LeetCode/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/vinaykhapare/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/vinaykhapare/LeetCode/tree/master/0013-roman-to-integer) |
 ## Bit Manipulation
 |  |
@@ -24,6 +25,7 @@
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/vinaykhapare/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/vinaykhapare/LeetCode/tree/master/0013-roman-to-integer) |
 | [0204-count-primes](https://github.com/vinaykhapare/LeetCode/tree/master/0204-count-primes) |
 ## Enumeration
@@ -41,5 +43,6 @@
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/vinaykhapare/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/vinaykhapare/LeetCode/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
