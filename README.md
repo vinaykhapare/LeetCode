@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vinaykhapare/LeetCode/tree/master/0001-two-sum) |
+| [0035-search-insert-position](https://github.com/vinaykhapare/LeetCode/tree/master/0035-search-insert-position) |
 | [0136-single-number](https://github.com/vinaykhapare/LeetCode/tree/master/0136-single-number) |
 | [0204-count-primes](https://github.com/vinaykhapare/LeetCode/tree/master/0204-count-primes) |
 | [0792-binary-search](https://github.com/vinaykhapare/LeetCode/tree/master/0792-binary-search) |
@@ -39,6 +40,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/vinaykhapare/LeetCode/tree/master/0035-search-insert-position) |
 | [0792-binary-search](https://github.com/vinaykhapare/LeetCode/tree/master/0792-binary-search) |
 ## String
 |  |
