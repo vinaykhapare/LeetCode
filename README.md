@@ -10,6 +10,7 @@
 | [0066-plus-one](https://github.com/vinaykhapare/LeetCode/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/vinaykhapare/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0136-single-number](https://github.com/vinaykhapare/LeetCode/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/vinaykhapare/LeetCode/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/vinaykhapare/LeetCode/tree/master/0204-count-primes) |
 | [0792-binary-search](https://github.com/vinaykhapare/LeetCode/tree/master/0792-binary-search) |
 ## Hash Table
@@ -18,6 +19,7 @@
 | [0001-two-sum](https://github.com/vinaykhapare/LeetCode/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/vinaykhapare/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/vinaykhapare/LeetCode/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/vinaykhapare/LeetCode/tree/master/0169-majority-element) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -56,4 +58,16 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vinaykhapare/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/vinaykhapare/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/vinaykhapare/LeetCode/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/vinaykhapare/LeetCode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/vinaykhapare/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
