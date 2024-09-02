@@ -8,6 +8,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vinaykhapare/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/vinaykhapare/LeetCode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/vinaykhapare/LeetCode/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/vinaykhapare/LeetCode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/vinaykhapare/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0136-single-number](https://github.com/vinaykhapare/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/vinaykhapare/LeetCode/tree/master/0169-majority-element) |
@@ -64,6 +65,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vinaykhapare/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/vinaykhapare/LeetCode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/vinaykhapare/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/vinaykhapare/LeetCode/tree/master/0189-rotate-array) |
 ## Divide and Conquer
@@ -73,6 +75,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/vinaykhapare/LeetCode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/vinaykhapare/LeetCode/tree/master/0169-majority-element) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vinaykhapare/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 ## Counting
