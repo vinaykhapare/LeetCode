@@ -46,6 +46,7 @@
 | [0204-count-primes](https://github.com/vinaykhapare/LeetCode/tree/master/0204-count-primes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vinaykhapare/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1635-number-of-good-pairs](https://github.com/vinaykhapare/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [2556-convert-the-temperature](https://github.com/vinaykhapare/LeetCode/tree/master/2556-convert-the-temperature) |
 ## Enumeration
 |  |
 | ------- |
