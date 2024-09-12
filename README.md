@@ -21,6 +21,7 @@
 | [0792-binary-search](https://github.com/vinaykhapare/LeetCode/tree/master/0792-binary-search) |
 | [1580-shuffle-the-array](https://github.com/vinaykhapare/LeetCode/tree/master/1580-shuffle-the-array) |
 | [1635-number-of-good-pairs](https://github.com/vinaykhapare/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [2058-concatenation-of-array](https://github.com/vinaykhapare/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/vinaykhapare/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2350-find-closest-number-to-zero](https://github.com/vinaykhapare/LeetCode/tree/master/2350-find-closest-number-to-zero) |
 ## Hash Table
@@ -117,5 +118,6 @@
 ## Simulation
 |  |
 | ------- |
+| [2058-concatenation-of-array](https://github.com/vinaykhapare/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/vinaykhapare/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 <!---LeetCode Topics End-->
