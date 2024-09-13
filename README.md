@@ -49,6 +49,7 @@
 | [0012-integer-to-roman](https://github.com/vinaykhapare/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/vinaykhapare/LeetCode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/vinaykhapare/LeetCode/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/vinaykhapare/LeetCode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/vinaykhapare/LeetCode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/vinaykhapare/LeetCode/tree/master/0204-count-primes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vinaykhapare/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -70,6 +71,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/vinaykhapare/LeetCode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/vinaykhapare/LeetCode/tree/master/0069-sqrtx) |
 | [0792-binary-search](https://github.com/vinaykhapare/LeetCode/tree/master/0792-binary-search) |
 ## String
 |  |
