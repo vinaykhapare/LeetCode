@@ -42,6 +42,7 @@
 |  |
 | ------- |
 | [0182-duplicate-emails](https://github.com/vinaykhapare/LeetCode/tree/master/0182-duplicate-emails) |
+| [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/vinaykhapare/LeetCode/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 ## Math
 |  |
 | ------- |
