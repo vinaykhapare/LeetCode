@@ -52,6 +52,7 @@
 | [0069-sqrtx](https://github.com/vinaykhapare/LeetCode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/vinaykhapare/LeetCode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/vinaykhapare/LeetCode/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/vinaykhapare/LeetCode/tree/master/0258-add-digits) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vinaykhapare/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1635-number-of-good-pairs](https://github.com/vinaykhapare/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [2383-add-two-integers](https://github.com/vinaykhapare/LeetCode/tree/master/2383-add-two-integers) |
@@ -66,6 +67,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/vinaykhapare/LeetCode/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/vinaykhapare/LeetCode/tree/master/0258-add-digits) |
 | [2491-smallest-even-multiple](https://github.com/vinaykhapare/LeetCode/tree/master/2491-smallest-even-multiple) |
 ## Binary Search
 |  |
@@ -125,6 +127,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/vinaykhapare/LeetCode/tree/master/0258-add-digits) |
 | [2058-concatenation-of-array](https://github.com/vinaykhapare/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/vinaykhapare/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 <!---LeetCode Topics End-->
