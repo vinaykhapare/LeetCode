@@ -44,6 +44,7 @@
 |  |
 | ------- |
 | [0182-duplicate-emails](https://github.com/vinaykhapare/LeetCode/tree/master/0182-duplicate-emails) |
+| [1892-find-total-time-spent-by-each-employee](https://github.com/vinaykhapare/LeetCode/tree/master/1892-find-total-time-spent-by-each-employee) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/vinaykhapare/LeetCode/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 ## Math
 |  |
