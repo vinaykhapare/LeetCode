@@ -21,6 +21,7 @@
 | [0792-binary-search](https://github.com/vinaykhapare/LeetCode/tree/master/0792-binary-search) |
 | [1580-shuffle-the-array](https://github.com/vinaykhapare/LeetCode/tree/master/1580-shuffle-the-array) |
 | [1635-number-of-good-pairs](https://github.com/vinaykhapare/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [1791-richest-customer-wealth](https://github.com/vinaykhapare/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [2058-concatenation-of-array](https://github.com/vinaykhapare/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/vinaykhapare/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2350-find-closest-number-to-zero](https://github.com/vinaykhapare/LeetCode/tree/master/2350-find-closest-number-to-zero) |
@@ -130,4 +131,8 @@
 | [0258-add-digits](https://github.com/vinaykhapare/LeetCode/tree/master/0258-add-digits) |
 | [2058-concatenation-of-array](https://github.com/vinaykhapare/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/vinaykhapare/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+## Matrix
+|  |
+| ------- |
+| [1791-richest-customer-wealth](https://github.com/vinaykhapare/LeetCode/tree/master/1791-richest-customer-wealth) |
 <!---LeetCode Topics End-->
