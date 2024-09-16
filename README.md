@@ -28,6 +28,7 @@
 | [2350-find-closest-number-to-zero](https://github.com/vinaykhapare/LeetCode/tree/master/2350-find-closest-number-to-zero) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/vinaykhapare/LeetCode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3194-find-words-containing-character](https://github.com/vinaykhapare/LeetCode/tree/master/3194-find-words-containing-character) |
+| [3221-find-the-peaks](https://github.com/vinaykhapare/LeetCode/tree/master/3221-find-the-peaks) |
 ## Hash Table
 |  |
 | ------- |
@@ -67,6 +68,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/vinaykhapare/LeetCode/tree/master/0204-count-primes) |
+| [3221-find-the-peaks](https://github.com/vinaykhapare/LeetCode/tree/master/3221-find-the-peaks) |
 ## Number Theory
 |  |
 | ------- |
