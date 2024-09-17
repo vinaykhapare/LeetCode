@@ -86,6 +86,7 @@
 | ------- |
 | [0012-integer-to-roman](https://github.com/vinaykhapare/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/vinaykhapare/LeetCode/tree/master/0013-roman-to-integer) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vinaykhapare/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/vinaykhapare/LeetCode/tree/master/0058-length-of-last-word) |
 | [1205-defanging-an-ip-address](https://github.com/vinaykhapare/LeetCode/tree/master/1205-defanging-an-ip-address) |
 | [1797-goal-parser-interpretation](https://github.com/vinaykhapare/LeetCode/tree/master/1797-goal-parser-interpretation) |
@@ -97,6 +98,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vinaykhapare/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vinaykhapare/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/vinaykhapare/LeetCode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/vinaykhapare/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/vinaykhapare/LeetCode/tree/master/0189-rotate-array) |
@@ -142,4 +144,8 @@
 |  |
 | ------- |
 | [1791-richest-customer-wealth](https://github.com/vinaykhapare/LeetCode/tree/master/1791-richest-customer-wealth) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vinaykhapare/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
