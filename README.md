@@ -31,6 +31,7 @@
 | [2876-number-of-employees-who-met-the-target](https://github.com/vinaykhapare/LeetCode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3194-find-words-containing-character](https://github.com/vinaykhapare/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3221-find-the-peaks](https://github.com/vinaykhapare/LeetCode/tree/master/3221-find-the-peaks) |
+| [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/vinaykhapare/LeetCode/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 ## Hash Table
 |  |
 | ------- |
