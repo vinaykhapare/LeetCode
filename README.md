@@ -45,6 +45,7 @@
 | ------- |
 | [0136-single-number](https://github.com/vinaykhapare/LeetCode/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/vinaykhapare/LeetCode/tree/master/0190-reverse-bits) |
+| [1610-xor-operation-in-an-array](https://github.com/vinaykhapare/LeetCode/tree/master/1610-xor-operation-in-an-array) |
 ## Database
 |  |
 | ------- |
@@ -64,6 +65,7 @@
 | [0204-count-primes](https://github.com/vinaykhapare/LeetCode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/vinaykhapare/LeetCode/tree/master/0258-add-digits) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vinaykhapare/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [1610-xor-operation-in-an-array](https://github.com/vinaykhapare/LeetCode/tree/master/1610-xor-operation-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/vinaykhapare/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [2383-add-two-integers](https://github.com/vinaykhapare/LeetCode/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/vinaykhapare/LeetCode/tree/master/2491-smallest-even-multiple) |
