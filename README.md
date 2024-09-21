@@ -71,6 +71,7 @@
 | [2383-add-two-integers](https://github.com/vinaykhapare/LeetCode/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/vinaykhapare/LeetCode/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/vinaykhapare/LeetCode/tree/master/2556-convert-the-temperature) |
+| [2752-sum-multiples](https://github.com/vinaykhapare/LeetCode/tree/master/2752-sum-multiples) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/vinaykhapare/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 ## Enumeration
 |  |
