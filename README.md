@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/vinaykhapare/LeetCode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vinaykhapare/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0033-search-in-rotated-sorted-array](https://github.com/vinaykhapare/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/vinaykhapare/LeetCode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/vinaykhapare/LeetCode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/vinaykhapare/LeetCode/tree/master/0075-sort-colors) |
@@ -85,6 +86,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/vinaykhapare/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/vinaykhapare/LeetCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/vinaykhapare/LeetCode/tree/master/0069-sqrtx) |
 | [0792-binary-search](https://github.com/vinaykhapare/LeetCode/tree/master/0792-binary-search) |
