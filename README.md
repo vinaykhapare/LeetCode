@@ -103,6 +103,7 @@
 | [1894-merge-strings-alternately](https://github.com/vinaykhapare/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/vinaykhapare/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/vinaykhapare/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [2304-cells-in-a-range-on-an-excel-sheet](https://github.com/vinaykhapare/LeetCode/tree/master/2304-cells-in-a-range-on-an-excel-sheet) |
 | [3194-find-words-containing-character](https://github.com/vinaykhapare/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/vinaykhapare/LeetCode/tree/master/3379-score-of-a-string) |
 ## Two Pointers
