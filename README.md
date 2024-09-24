@@ -29,6 +29,7 @@
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/vinaykhapare/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2350-find-closest-number-to-zero](https://github.com/vinaykhapare/LeetCode/tree/master/2350-find-closest-number-to-zero) |
 | [2551-apply-operations-to-an-array](https://github.com/vinaykhapare/LeetCode/tree/master/2551-apply-operations-to-an-array) |
+| [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/vinaykhapare/LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/vinaykhapare/LeetCode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3194-find-words-containing-character](https://github.com/vinaykhapare/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3221-find-the-peaks](https://github.com/vinaykhapare/LeetCode/tree/master/3221-find-the-peaks) |
@@ -72,6 +73,7 @@
 | [2383-add-two-integers](https://github.com/vinaykhapare/LeetCode/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/vinaykhapare/LeetCode/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/vinaykhapare/LeetCode/tree/master/2556-convert-the-temperature) |
+| [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/vinaykhapare/LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2752-sum-multiples](https://github.com/vinaykhapare/LeetCode/tree/master/2752-sum-multiples) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/vinaykhapare/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 ## Enumeration
