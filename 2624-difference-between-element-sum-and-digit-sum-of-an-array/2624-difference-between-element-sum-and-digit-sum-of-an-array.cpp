@@ -1,19 +1,16 @@
 class Solution {
 public:
     int differenceOfSum(vector<int>& nums) {
-        int digsum =0;
-        int elesum =0; 
-        for(int i=0; i<nums.size(); i++)
-        {
-            elesum += nums[i];
-        }
-
+        int elesum =0, digsum =0;
         for(int num : nums)
         {
-            while(num>0)
+            elesum +=num;
+            int temp = num;
+
+            while(temp > 0)
             {
-                digsum +=num % 10;
-                num /= 10;
+                digsum += temp % 10;
+                temp /=10;
             }
         }
         return abs(elesum - digsum);
