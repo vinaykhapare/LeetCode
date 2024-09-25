@@ -51,6 +51,7 @@
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/vinaykhapare/LeetCode/tree/master/0175-combine-two-tables) |
 | [0182-duplicate-emails](https://github.com/vinaykhapare/LeetCode/tree/master/0182-duplicate-emails) |
 | [0620-not-boring-movies](https://github.com/vinaykhapare/LeetCode/tree/master/0620-not-boring-movies) |
 | [1153-product-sales-analysis-i](https://github.com/vinaykhapare/LeetCode/tree/master/1153-product-sales-analysis-i) |
