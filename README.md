@@ -68,6 +68,7 @@
 | [0189-rotate-array](https://github.com/vinaykhapare/LeetCode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/vinaykhapare/LeetCode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/vinaykhapare/LeetCode/tree/master/0258-add-digits) |
+| [0367-valid-perfect-square](https://github.com/vinaykhapare/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vinaykhapare/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1610-xor-operation-in-an-array](https://github.com/vinaykhapare/LeetCode/tree/master/1610-xor-operation-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/vinaykhapare/LeetCode/tree/master/1635-number-of-good-pairs) |
@@ -94,6 +95,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/vinaykhapare/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/vinaykhapare/LeetCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/vinaykhapare/LeetCode/tree/master/0069-sqrtx) |
+| [0367-valid-perfect-square](https://github.com/vinaykhapare/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0792-binary-search](https://github.com/vinaykhapare/LeetCode/tree/master/0792-binary-search) |
 ## String
 |  |
