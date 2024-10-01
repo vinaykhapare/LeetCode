@@ -24,6 +24,7 @@
 | [1505-create-target-array-in-the-given-order](https://github.com/vinaykhapare/LeetCode/tree/master/1505-create-target-array-in-the-given-order) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/vinaykhapare/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1580-shuffle-the-array](https://github.com/vinaykhapare/LeetCode/tree/master/1580-shuffle-the-array) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/vinaykhapare/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1635-number-of-good-pairs](https://github.com/vinaykhapare/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1791-richest-customer-wealth](https://github.com/vinaykhapare/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [2058-concatenation-of-array](https://github.com/vinaykhapare/LeetCode/tree/master/2058-concatenation-of-array) |
@@ -45,6 +46,7 @@
 | [0012-integer-to-roman](https://github.com/vinaykhapare/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/vinaykhapare/LeetCode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/vinaykhapare/LeetCode/tree/master/0169-majority-element) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/vinaykhapare/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1635-number-of-good-pairs](https://github.com/vinaykhapare/LeetCode/tree/master/1635-number-of-good-pairs) |
 ## Bit Manipulation
 |  |
@@ -149,6 +151,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/vinaykhapare/LeetCode/tree/master/0169-majority-element) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/vinaykhapare/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1635-number-of-good-pairs](https://github.com/vinaykhapare/LeetCode/tree/master/1635-number-of-good-pairs) |
 ## Prefix Sum
 |  |
