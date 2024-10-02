@@ -10,12 +10,12 @@ public:
         unordered_map<int, int> ranks;
         int rank =1;  //Ranks starts from 1
 
-        for(const int &ele : uniqueElements)
+        for(int ele : uniqueElements)
             ranks[ele] = rank++;
 
         vector<int> ans;
 
-        for(int &ele : arr)
+        for(int ele : arr)
             ans.push_back(ranks[ele]);
 
         return ans;
