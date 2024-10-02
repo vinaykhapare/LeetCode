@@ -21,6 +21,7 @@
 | [0283-move-zeroes](https://github.com/vinaykhapare/LeetCode/tree/master/0283-move-zeroes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vinaykhapare/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0792-binary-search](https://github.com/vinaykhapare/LeetCode/tree/master/0792-binary-search) |
+| [1256-rank-transform-of-an-array](https://github.com/vinaykhapare/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1505-create-target-array-in-the-given-order](https://github.com/vinaykhapare/LeetCode/tree/master/1505-create-target-array-in-the-given-order) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/vinaykhapare/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1580-shuffle-the-array](https://github.com/vinaykhapare/LeetCode/tree/master/1580-shuffle-the-array) |
@@ -46,6 +47,7 @@
 | [0012-integer-to-roman](https://github.com/vinaykhapare/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/vinaykhapare/LeetCode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/vinaykhapare/LeetCode/tree/master/0169-majority-element) |
+| [1256-rank-transform-of-an-array](https://github.com/vinaykhapare/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/vinaykhapare/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1635-number-of-good-pairs](https://github.com/vinaykhapare/LeetCode/tree/master/1635-number-of-good-pairs) |
 ## Bit Manipulation
@@ -147,6 +149,7 @@
 | [0169-majority-element](https://github.com/vinaykhapare/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vinaykhapare/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vinaykhapare/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [1256-rank-transform-of-an-array](https://github.com/vinaykhapare/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 ## Counting
 |  |
 | ------- |
