@@ -27,6 +27,7 @@
 | [1580-shuffle-the-array](https://github.com/vinaykhapare/LeetCode/tree/master/1580-shuffle-the-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/vinaykhapare/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1635-number-of-good-pairs](https://github.com/vinaykhapare/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [1694-make-sum-divisible-by-p](https://github.com/vinaykhapare/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
 | [1791-richest-customer-wealth](https://github.com/vinaykhapare/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [2058-concatenation-of-array](https://github.com/vinaykhapare/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/vinaykhapare/LeetCode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
@@ -50,6 +51,7 @@
 | [1256-rank-transform-of-an-array](https://github.com/vinaykhapare/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/vinaykhapare/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1635-number-of-good-pairs](https://github.com/vinaykhapare/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [1694-make-sum-divisible-by-p](https://github.com/vinaykhapare/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -160,6 +162,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/vinaykhapare/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [1694-make-sum-divisible-by-p](https://github.com/vinaykhapare/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
