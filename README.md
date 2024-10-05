@@ -49,6 +49,7 @@
 | [0012-integer-to-roman](https://github.com/vinaykhapare/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/vinaykhapare/LeetCode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/vinaykhapare/LeetCode/tree/master/0169-majority-element) |
+| [0567-permutation-in-string](https://github.com/vinaykhapare/LeetCode/tree/master/0567-permutation-in-string) |
 | [1256-rank-transform-of-an-array](https://github.com/vinaykhapare/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/vinaykhapare/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1635-number-of-good-pairs](https://github.com/vinaykhapare/LeetCode/tree/master/1635-number-of-good-pairs) |
@@ -118,6 +119,7 @@
 | [0013-roman-to-integer](https://github.com/vinaykhapare/LeetCode/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vinaykhapare/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/vinaykhapare/LeetCode/tree/master/0058-length-of-last-word) |
+| [0567-permutation-in-string](https://github.com/vinaykhapare/LeetCode/tree/master/0567-permutation-in-string) |
 | [1205-defanging-an-ip-address](https://github.com/vinaykhapare/LeetCode/tree/master/1205-defanging-an-ip-address) |
 | [1797-goal-parser-interpretation](https://github.com/vinaykhapare/LeetCode/tree/master/1797-goal-parser-interpretation) |
 | [1894-merge-strings-alternately](https://github.com/vinaykhapare/LeetCode/tree/master/1894-merge-strings-alternately) |
@@ -137,6 +139,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/vinaykhapare/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/vinaykhapare/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/vinaykhapare/LeetCode/tree/master/0283-move-zeroes) |
+| [0567-permutation-in-string](https://github.com/vinaykhapare/LeetCode/tree/master/0567-permutation-in-string) |
 | [1894-merge-strings-alternately](https://github.com/vinaykhapare/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2551-apply-operations-to-an-array](https://github.com/vinaykhapare/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/vinaykhapare/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -191,4 +194,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vinaykhapare/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/vinaykhapare/LeetCode/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
