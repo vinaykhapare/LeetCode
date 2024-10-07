@@ -129,6 +129,7 @@
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/vinaykhapare/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/vinaykhapare/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2304-cells-in-a-range-on-an-excel-sheet](https://github.com/vinaykhapare/LeetCode/tree/master/2304-cells-in-a-range-on-an-excel-sheet) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/vinaykhapare/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3194-find-words-containing-character](https://github.com/vinaykhapare/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/vinaykhapare/LeetCode/tree/master/3379-score-of-a-string) |
 ## Two Pointers
@@ -189,6 +190,7 @@
 | [2058-concatenation-of-array](https://github.com/vinaykhapare/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/vinaykhapare/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2551-apply-operations-to-an-array](https://github.com/vinaykhapare/LeetCode/tree/master/2551-apply-operations-to-an-array) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/vinaykhapare/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Matrix
 |  |
 | ------- |
@@ -201,4 +203,8 @@
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/vinaykhapare/LeetCode/tree/master/0567-permutation-in-string) |
+## Stack
+|  |
+| ------- |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/vinaykhapare/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 <!---LeetCode Topics End-->
