@@ -1,20 +1,15 @@
 class Solution {
 public:
     int minSwaps(string s) {
-        int size = 0;
-        int n = s.size();
-        for(int i=0; i<n; i++)
+        int closing = 0;
+        int max_closing = 0;
+        for(int i=0; s[i] != '\0'; i++)
         {
-            char ch = s[i];
-            if(ch == '[')
-            {
-                size++;
-            }
-            else if (size > 0)
-            {
-                size--;
-            }
+            if(s[i] == '[')
+                closing--;
+            else closing++;
+            max_closing = max(max_closing, closing);
         }
-        return (size+1)/2;
+        return (max_closing + 1)/2;
     }
 };
