@@ -21,6 +21,7 @@
 | [0283-move-zeroes](https://github.com/vinaykhapare/LeetCode/tree/master/0283-move-zeroes) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vinaykhapare/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0792-binary-search](https://github.com/vinaykhapare/LeetCode/tree/master/0792-binary-search) |
+| [1002-maximum-width-ramp](https://github.com/vinaykhapare/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [1256-rank-transform-of-an-array](https://github.com/vinaykhapare/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1505-create-target-array-in-the-given-order](https://github.com/vinaykhapare/LeetCode/tree/master/1505-create-target-array-in-the-given-order) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/vinaykhapare/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -210,6 +211,7 @@
 |  |
 | ------- |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/vinaykhapare/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1002-maximum-width-ramp](https://github.com/vinaykhapare/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/vinaykhapare/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/vinaykhapare/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Greedy
@@ -217,4 +219,8 @@
 | ------- |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/vinaykhapare/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/vinaykhapare/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1002-maximum-width-ramp](https://github.com/vinaykhapare/LeetCode/tree/master/1002-maximum-width-ramp) |
 <!---LeetCode Topics End-->
