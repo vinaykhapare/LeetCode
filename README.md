@@ -93,6 +93,7 @@
 | [0258-add-digits](https://github.com/vinaykhapare/LeetCode/tree/master/0258-add-digits) |
 | [0367-valid-perfect-square](https://github.com/vinaykhapare/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vinaykhapare/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0670-maximum-swap](https://github.com/vinaykhapare/LeetCode/tree/master/0670-maximum-swap) |
 | [1610-xor-operation-in-an-array](https://github.com/vinaykhapare/LeetCode/tree/master/1610-xor-operation-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/vinaykhapare/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [2383-add-two-integers](https://github.com/vinaykhapare/LeetCode/tree/master/2383-add-two-integers) |
@@ -237,6 +238,7 @@
 |  |
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/vinaykhapare/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0670-maximum-swap](https://github.com/vinaykhapare/LeetCode/tree/master/0670-maximum-swap) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/vinaykhapare/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/vinaykhapare/LeetCode/tree/master/1304-longest-happy-string) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/vinaykhapare/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
