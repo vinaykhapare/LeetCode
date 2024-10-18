@@ -36,6 +36,7 @@
 | [2058-concatenation-of-array](https://github.com/vinaykhapare/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/vinaykhapare/LeetCode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/vinaykhapare/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/vinaykhapare/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/vinaykhapare/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2350-find-closest-number-to-zero](https://github.com/vinaykhapare/LeetCode/tree/master/2350-find-closest-number-to-zero) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/vinaykhapare/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -69,6 +70,7 @@
 | [0136-single-number](https://github.com/vinaykhapare/LeetCode/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/vinaykhapare/LeetCode/tree/master/0190-reverse-bits) |
 | [1610-xor-operation-in-an-array](https://github.com/vinaykhapare/LeetCode/tree/master/1610-xor-operation-in-an-array) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/vinaykhapare/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Database
 |  |
 | ------- |
@@ -106,6 +108,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/vinaykhapare/LeetCode/tree/master/0204-count-primes) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/vinaykhapare/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [3221-find-the-peaks](https://github.com/vinaykhapare/LeetCode/tree/master/3221-find-the-peaks) |
 ## Number Theory
 |  |
@@ -249,4 +252,8 @@
 |  |
 | ------- |
 | [1002-maximum-width-ramp](https://github.com/vinaykhapare/LeetCode/tree/master/1002-maximum-width-ramp) |
+## Backtracking
+|  |
+| ------- |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/vinaykhapare/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 <!---LeetCode Topics End-->
