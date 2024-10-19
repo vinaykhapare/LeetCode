@@ -135,6 +135,7 @@
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/vinaykhapare/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1205-defanging-an-ip-address](https://github.com/vinaykhapare/LeetCode/tree/master/1205-defanging-an-ip-address) |
 | [1304-longest-happy-string](https://github.com/vinaykhapare/LeetCode/tree/master/1304-longest-happy-string) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/vinaykhapare/LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1797-goal-parser-interpretation](https://github.com/vinaykhapare/LeetCode/tree/master/1797-goal-parser-interpretation) |
 | [1894-merge-strings-alternately](https://github.com/vinaykhapare/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [1923-sentence-similarity-iii](https://github.com/vinaykhapare/LeetCode/tree/master/1923-sentence-similarity-iii) |
@@ -213,6 +214,7 @@
 | ------- |
 | [0258-add-digits](https://github.com/vinaykhapare/LeetCode/tree/master/0258-add-digits) |
 | [1505-create-target-array-in-the-given-order](https://github.com/vinaykhapare/LeetCode/tree/master/1505-create-target-array-in-the-given-order) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/vinaykhapare/LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2058-concatenation-of-array](https://github.com/vinaykhapare/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/vinaykhapare/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2551-apply-operations-to-an-array](https://github.com/vinaykhapare/LeetCode/tree/master/2551-apply-operations-to-an-array) |
@@ -256,4 +258,8 @@
 |  |
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/vinaykhapare/LeetCode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+## Recursion
+|  |
+| ------- |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/vinaykhapare/LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 <!---LeetCode Topics End-->
