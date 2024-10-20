@@ -133,6 +133,7 @@
 | [0058-length-of-last-word](https://github.com/vinaykhapare/LeetCode/tree/master/0058-length-of-last-word) |
 | [0567-permutation-in-string](https://github.com/vinaykhapare/LeetCode/tree/master/0567-permutation-in-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/vinaykhapare/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1197-parsing-a-boolean-expression](https://github.com/vinaykhapare/LeetCode/tree/master/1197-parsing-a-boolean-expression) |
 | [1205-defanging-an-ip-address](https://github.com/vinaykhapare/LeetCode/tree/master/1205-defanging-an-ip-address) |
 | [1304-longest-happy-string](https://github.com/vinaykhapare/LeetCode/tree/master/1304-longest-happy-string) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/vinaykhapare/LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
@@ -237,6 +238,7 @@
 | ------- |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/vinaykhapare/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/vinaykhapare/LeetCode/tree/master/1002-maximum-width-ramp) |
+| [1197-parsing-a-boolean-expression](https://github.com/vinaykhapare/LeetCode/tree/master/1197-parsing-a-boolean-expression) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/vinaykhapare/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/vinaykhapare/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Greedy
@@ -261,5 +263,6 @@
 ## Recursion
 |  |
 | ------- |
+| [1197-parsing-a-boolean-expression](https://github.com/vinaykhapare/LeetCode/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/vinaykhapare/LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 <!---LeetCode Topics End-->
