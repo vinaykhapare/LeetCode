@@ -40,6 +40,7 @@
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/vinaykhapare/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2350-find-closest-number-to-zero](https://github.com/vinaykhapare/LeetCode/tree/master/2350-find-closest-number-to-zero) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/vinaykhapare/LeetCode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/vinaykhapare/LeetCode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2551-apply-operations-to-an-array](https://github.com/vinaykhapare/LeetCode/tree/master/2551-apply-operations-to-an-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/vinaykhapare/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/vinaykhapare/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
@@ -265,4 +266,20 @@
 | ------- |
 | [1197-parsing-a-boolean-expression](https://github.com/vinaykhapare/LeetCode/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/vinaykhapare/LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+## Tree
+|  |
+| ------- |
+| [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/vinaykhapare/LeetCode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
+## Depth-First Search
+|  |
+| ------- |
+| [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/vinaykhapare/LeetCode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/vinaykhapare/LeetCode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
+## Binary Tree
+|  |
+| ------- |
+| [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/vinaykhapare/LeetCode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 <!---LeetCode Topics End-->
