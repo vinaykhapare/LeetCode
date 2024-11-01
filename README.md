@@ -66,6 +66,7 @@
 | [1694-make-sum-divisible-by-p](https://github.com/vinaykhapare/LeetCode/tree/master/1694-make-sum-divisible-by-p) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/vinaykhapare/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/vinaykhapare/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2825-minimize-string-length](https://github.com/vinaykhapare/LeetCode/tree/master/2825-minimize-string-length) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -148,6 +149,7 @@
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/vinaykhapare/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2304-cells-in-a-range-on-an-excel-sheet](https://github.com/vinaykhapare/LeetCode/tree/master/2304-cells-in-a-range-on-an-excel-sheet) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/vinaykhapare/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [2825-minimize-string-length](https://github.com/vinaykhapare/LeetCode/tree/master/2825-minimize-string-length) |
 | [3194-find-words-containing-character](https://github.com/vinaykhapare/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3195-separate-black-and-white-balls](https://github.com/vinaykhapare/LeetCode/tree/master/3195-separate-black-and-white-balls) |
 | [3379-score-of-a-string](https://github.com/vinaykhapare/LeetCode/tree/master/3379-score-of-a-string) |
